@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:1,TRT 1
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:1,ATV
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1740717283&st=yL-OBZzRdUpRlPcb6M3-GQ&sid=775p5xxoqjws&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&ce=3
+#EXTINF:1,TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:1,ASPOR
+https://cdn406.canlitv.vip/aspor.m3u8?tkn=s83EJyjUH7kgzfCnC-pzDw&tms=1745796088&hst=tv.canlitv.vip&ip=85.106.239.3
+#EXTINF:1,Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:1,A Haber
+https://cdn402.canlitv.vip/ahaber.m3u8?tkn=FIbV08dt2GIoANnS-dAbVQ&tms=1745797241&hst=tv.canlitv.vip&ip=85.106.239.3
+#EXTINF:1,TRT SPOR 
+https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:1,Kanal 7
+https://cdn403.canlitv.vip/kanal7.m3u8?tkn=pwlR55_EMgx0SqO1PTfDMA&tms=1745797108&hst=tv.canlitv.vip&ip=85.106.239.3
+#EXTINF:1,NOW TV
+http://116.202.238.88/FOXTV_TR/tracks-v1a1/index.m3u8
+#EXTINF:1,TV 8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:1,TV 8.5
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
+#EXTINF:1,TRT SPOR YILDIZ
+https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?app=web&platform=trtspor
+#EXTINF:1,Tabii Spor
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:1,Tabii Spor 1
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:1,Tabii Spor 2
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:1,Tabii Spor 3
+https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:1,Tabii Spor 4
+https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:1,Tabii Spor 5
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:1,Tabii Spor 6
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:1,BEYAZ TV
+https://tinyurl.com/582km64c
+#EXTINF:1,TGRT HABER
+https://cdn7.canlitv.vip/tgrthaber.m3u8?tkn=AcRWbW2zT-KM_uCkLaYk8Q&tms=1745797080&hst=tv.canlitv.vip&ip=85.106.239.3
+#EXTINF:1,Show Tv
+https://cdn403.canlitv.vip/showtv.m3u8?tkn=Cv8ELmQ8t0IsMzVVLXntKg&tms=1745797204&hst=tv.canlitv.vip&ip=85.106.239.3
+#EXTINF:1,BeIN Sports A
+http://izle1.iptvhd.xyz:8080/live/cemrecaglar/7elt47ra9/89599.ts
+#EXTINF:1,BeIN Sports 
+http://udashboard.win:8080/live/mWnWVyFQGP/BdCB1sg1Xa/249905.ts
+#EXTINF:1,BeIN Sports B
+http://parispars.xyz:8080/live/KartaLFdL46/Fdl101122/551702.ts
+#EXTINF:1,BeIN Sports C
+http://lionkingtr.xyz:8080/live/2808.Cemal2022/2808son2023/484190.ts
+#EXTINF:1,S Sport +
+https://goldvod.org/tv/vavoo?id=40360462190582d8e63fd1
+
+
+
