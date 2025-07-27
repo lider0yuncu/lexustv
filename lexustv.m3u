@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:1,TRT 1
+#EXTINF:-1 tvg-name="TRT1" tvg-id="TRT1" tvg-logo="https://trt-public-static.trt.com.tr/trt1/public/dm_upload/modul4/6a995bc8-6c33-4c8b-9c1d-0b8fe96bc43c.jpg" group-title="TRT",TRT1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:1,ATV
 https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1740717283&st=yL-OBZzRdUpRlPcb6M3-GQ&sid=775p5xxoqjws&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&ce=3
