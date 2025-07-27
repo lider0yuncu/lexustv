@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Trt 4K" tvg-id="Trt 4K" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kpjb-FM-LgOsdlTlf2ri0LF7nrUfycghLt2N0Rtw22odk=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal",Trt 4K
-https://live-cdn-65984.varplaycdn.cfd/trt4fhd/index.m3u8
 #EXTINF:-1 tvg-name="TRT1" tvg-id="TRT1" tvg-logo="https://trt-public-static.trt.com.tr/trt1/public/dm_upload/modul4/6a995bc8-6c33-4c8b-9c1d-0b8fe96bc43c.jpg" group-title="Ulusal",TRT1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV" tvg-logo="https://e7.pngegg.com/pngimages/547/320/png-clipart-turkey-atv-television-channel-television-show-others-television-text-thumbnail.png" group-title="Ulusal",ATV
