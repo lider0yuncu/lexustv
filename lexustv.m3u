@@ -14,11 +14,11 @@ https://cdn402.canlitv.vip/ahaber.m3u8?tkn=FIbV08dt2GIoANnS-dAbVQ&tms=1745797241
 #EXTINF:1,TRT SPOR 
 https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:1,Kanal 7
-https://cdn403.canlitv.vip/kanal7.m3u8?tkn=pwlR55_EMgx0SqO1PTfDMA&tms=1745797108&hst=tv.canlitv.vip&ip=85.106.239.3
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:1,NOW TV
 http://116.202.238.88/FOXTV_TR/tracks-v1a1/index.m3u8
 #EXTINF:1,TV 8
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+https://tv8-live.daioncdn.net:443/tv8/tv8_1080p.m3u8
 #EXTINF:1,TV 8.5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:1,TRT SPOR YILDIZ
@@ -42,7 +42,7 @@ https://tinyurl.com/582km64c
 #EXTINF:1,TGRT HABER
 https://cdn7.canlitv.vip/tgrthaber.m3u8?tkn=AcRWbW2zT-KM_uCkLaYk8Q&tms=1745797080&hst=tv.canlitv.vip&ip=85.106.239.3
 #EXTINF:1,Show Tv
-https://cdn403.canlitv.vip/showtv.m3u8?tkn=Cv8ELmQ8t0IsMzVVLXntKg&tms=1745797204&hst=tv.canlitv.vip&ip=85.106.239.3
+https://bloomberght-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:1,BeIN Sports A
 http://izle1.iptvhd.xyz:8080/live/cemrecaglar/7elt47ra9/89599.ts
 #EXTINF:1,BeIN Sports 
