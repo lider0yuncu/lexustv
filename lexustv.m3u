@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT1" tvg-id="TRT1" tvg-logo="https://trt-public-static.trt.com.tr/trt1/public/dm_upload/modul4/6a995bc8-6c33-4c8b-9c1d-0b8fe96bc43c.jpg" group-title="TRT",TRT1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:1,ATV
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV" tvg-logo="https://e7.pngegg.com/pngimages/547/320/png-clipart-turkey-atv-television-channel-television-show-others-television-text-thumbnail.png" group-title="ATV",ATV
 https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1740717283&st=yL-OBZzRdUpRlPcb6M3-GQ&sid=775p5xxoqjws&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&ce=3
-#EXTINF:1,TRT HABER
+#EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRT HABER" tvg-logo="https://yt3.googleusercontent.com/X-b7tJvjfBMDHCAafwyNV89qJ_FlzlXChymSisVsncnPpgOLLHknR6n1wtm8huk0SJz3KhNRTQ=s900-c-k-c0x00ffffff-no-rj" group-title="TRT HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1,ASPOR
 https://cdn406.canlitv.vip/aspor.m3u8?tkn=s83EJyjUH7kgzfCnC-pzDw&tms=1745796088&hst=tv.canlitv.vip&ip=85.106.239.3
