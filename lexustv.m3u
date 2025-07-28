@@ -23,6 +23,10 @@ https://tinyurl.com/582km64c
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="A Haber" tvg-id="A Haber" tvg-logo="https://yt3.googleusercontent.com/3a7gv0YZ9X6kWk_kfffCq3Gdws5g54JntzV1fSHQomWFDb-1mUuJTiCTX4HxUG9SMjqYyBN4guE=s900-c-k-c0x00ffffff-no-rj" group-title="Haber",A Haber
 https://tinyurl.com/2hxm62tc
+#EXTINF:-1 tvg-name="Ekol Tv" tvg-id="Ekol Tv" tvg-logo="https://play-lh.googleusercontent.com/NcMpZLeMJzAQboY5GKm17MLkFqtthxweBH8RUeMP7GHKfqnMuxtvorh_xOAmLsCpGQ" group-title="Haber",Ekol Tv
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
+#EXTINF:-1 tvg-name="Haber Global" tvg-id="Haber Global" tvg-logo="https://yt3.googleusercontent.com/jSWgyqCsy8hQ9sIgccNhbUht_koPL8VYqZkirL7GLrj8QwOYBhkIkVEjq9OTEAM3mOlSIymwZw=s900-c-k-c0x00ffffff-no-rj" group-title="Haber",Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-name="Tgrt Haber" tvg-id="Tgrt Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="Haber",Tgrt Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-name="A Spor" tvg-id="A Spor" tvg-logo="https://play-lh.googleusercontent.com/_oZ0AAFjRptSaJiWbVrwo7tctmG2sD3Z4Mz6-3oZsPgacM3MC-ICoxWsivgoJSpZkPc" group-title="Spor",A Spor
@@ -79,6 +83,14 @@ http://denge.space:8080/live/3484nbvgfkbf/khgvhhfkmbc/280872.ts
 http://germanyqdnsx18.com:8080/live/ozgurciftci/vetmsjeel/89062.ts
 #EXTINF:-1 tvg-name="S Sport 2" tvg-id="S Sport 2" tvg-logo="https://yt3.googleusercontent.com/gvJvmHjz_AD2oWOrKpMHrc6PkrPaf9ZJn714gU1hOYxOh7XWqLbSjwniRy9wXxs0R6vyIFsCivA=s900-c-k-c0x00ffffff-no-rj" group-title="Premium",S Sport 2
 http://germanyqdnsx18.com:8080/live/ozgurciftci/vetmsjeel/89064.ts
+#EXTINF:-1 tvg-name="Tivibu Spor 1" tvg-id="Tivibu Spor 1" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="Premium",Tivibu Spor 1
+https://tv.arectv34.sbs/live/t1.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 2" tvg-id="Tivibu Spor 2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="Premium",Tivibu Spor 2
+https://tv.arectv34.sbs/live/t2.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 3" tvg-id="Tivibu Spor 3" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="Premium",Tivibu Spor 3
+https://tv.arectv34.sbs/live/t3.m3u8
+
+
 
 
 
