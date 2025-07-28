@@ -33,6 +33,8 @@ https://canli.tgrthaber.com/tgrt.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://yt3.googleusercontent.com/szXLDeuU3m19j99dxQo1HA7w0K09_REHxWa_HTwMnomnZLHN_yQznYziP90zWpTYAoiWOWMtSX4=s900-c-k-c0x00ffffff-no-rj" group-title="Belgesel",Discovery
 https://tv.arectv34.sbs/live/discovery.m3u8
+#EXTINF:-1 tvg-name="National Geographic Channel" tvg-id="National Geographic Channel" tvg-logo="https://cdn.dsmcdn.com/ty1320/product/media/images/prod/QC/20240520/19/d89755d4-470a-329c-ae8a-33844ffc0f16/1_org_zoom.jpg" group-title="Belgesel",National Geographic Channel
+https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-name="A Spor" tvg-id="A Spor" tvg-logo="https://play-lh.googleusercontent.com/_oZ0AAFjRptSaJiWbVrwo7tctmG2sD3Z4Mz6-3oZsPgacM3MC-ICoxWsivgoJSpZkPc" group-title="Spor",A Spor
 https://tv.arectv34.sbs/live/aspor.m3u8
 #EXTINF:-1 tvg-name="Trt Spor" tvg-id="Trt Spor" tvg-logo="https://yt3.googleusercontent.com/FCzDc31AsTFzobw8Z4QBCc8AGtKgFP4mq28RgbcLJGdVNlE0RoremvEr1XntYHFc6G0dAwU-=s900-c-k-c0x00ffffff-no-rj" group-title="Spor",Trt Spor
