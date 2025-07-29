@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TRT1" tvg-id="TRT1" tvg-logo="https://trt-public-static.trt.com.tr/trt1/public/dm_upload/modul4/6a995bc8-6c33-4c8b-9c1d-0b8fe96bc43c.jpg" group-title="Ulusal",TRT1
+#EXTINF:-1 tvg-name="TRT1" tvg-id="TRT1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-1-tr.png" group-title="Ulusal",TRT1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-name="ATV" tvg-id="ATV" tvg-logo="https://e7.pngegg.com/pngimages/547/320/png-clipart-turkey-atv-television-channel-television-show-others-television-text-thumbnail.png" group-title="Ulusal",ATV
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/atv-tr.png" group-title="Ulusal",ATV
 http://176.65.146.123:6001/play/a01t/index.m3u8
-#EXTINF:-1 tvg-name="Kanal D" tvg-id="Kanal D" tvg-logo="https://yt3.googleusercontent.com/PzOJKJhVUhYaGIpB79ya1FZaWNSlXGCG1ZXKd_q-yOh_8JbGT-dRiVWPz11UJEKpGFd49YhGjG8=s900-c-k-c0x00ffffff-no-rj" group-title="Ulusal",Kanal D
+#EXTINF:-1 tvg-name="Kanal D" tvg-id="Kanal D" tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/654b42b5ebc830246465c497.jpg" group-title="Ulusal",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 tvg-name="Star Tv" tvg-id="Star Tv" tvg-logo="https://play-lh.googleusercontent.com/CmRU5yM2F4FOujVYbR0fdZD7Sp2UwDIilpku-9x99p3Nog_bbGomJXvrHA-JMgl-1ZgM" group-title="Ulusal",Star Tv
+#EXTINF:-1 tvg-name="Star Tv" tvg-id="Star Tv" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/star-tv-tr.png" group-title="Ulusal",Star Tv
 http://gails.me:80/afrim.shefii/spXkFYJPJA1eXEbmwP5KDMbwp19qWRSdh/111268
 #EXTINF:-1 tvg-name="Kanal 7" tvg-id="Kanal 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUZXYVO1thpmjTV_-QEMesTmlTRmFbSM2Sw&s" group-title="Ulusal",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:-1 tvg-name="Now Tv" tvg-id="Now Tv" tvg-logo="https://play-lh.googleusercontent.com/gcb-eDybc16uY9SkMMU_zH0Sec7Q2KVdvLu4P7ToD_8tGmqmj6ILIS8t_G3KU11t_Ik" group-title="Ulusal",Now Tv
+#EXTINF:-1 tvg-name="Now Tv" tvg-id="Now Tv" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/fox-tr.png" group-title="Ulusal",Now Tv
 http://116.202.238.88/FOXTV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Tv 8" tvg-id="Tv 8" tvg-logo="https://play-lh.googleusercontent.com/qW4mpsCJ25zf4AaFQK3Gxe_W6Tq_T1WnUjEe9-lncUpdyBQvSnhG3irN1l8GkUy7URM" group-title="Ulusal",Tv 8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7gh1m93ubvgf&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-#EXTINF:-1 tvg-name="Tv 8.5" tvg-id="Tv 8.5" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/tv8.5.jpg" group-title="Ulusal",Tv 8.5
+#EXTINF:-1 tvg-name="Tv 8.5" tvg-id="Tv 8.5" tvg-logo="https://tvprofil.com/img/kanali-logo/TV_8.5_TR_logo_v2.png?1734016644" group-title="Ulusal",Tv 8.5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-name="Show Tv" tvg-id="Show Tv" tvg-logo="https://play-lh.googleusercontent.com/0sOPBAP2kN1gvVFLtCVsLhOrcZApUxZG8njmWOj26lRbiVJ723731GtyKJl-LFjd2Q=w240-h480-rw" group-title="Ulusal",Show Tv
 https://bloomberght-live.daioncdn.net/showtv/showtv_1080p.m3u8
