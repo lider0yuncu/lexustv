@@ -3,13 +3,13 @@
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/atv-tr.png" group-title="Ulusal",ATV
 http://176.65.146.123:6001/play/a01t/index.m3u8
-#EXTINF:-1 tvg-name="Kanal D" tvg-id="Kanal D" tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/654b42b5ebc830246465c497.jpg" group-title="Ulusal",Kanal D
+#EXTINF:-1 tvg-name="Kanal D" tvg-id="Kanal D" tvg-logo="https://images.seeklogo.com/logo-png/7/2/kanal-d-logo-png_seeklogo-77087.png" group-title="Ulusal",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-name="Star Tv" tvg-id="Star Tv" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/star-tv-tr.png" group-title="Ulusal",Star Tv
 http://gails.me:80/afrim.shefii/spXkFYJPJA1eXEbmwP5KDMbwp19qWRSdh/111268
 #EXTINF:-1 tvg-name="Kanal 7" tvg-id="Kanal 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUZXYVO1thpmjTV_-QEMesTmlTRmFbSM2Sw&s" group-title="Ulusal",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:-1 tvg-name="Now Tv" tvg-id="Now Tv" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/fox-tr.png" group-title="Ulusal",Now Tv
+#EXTINF:-1 tvg-name="Now Tv" tvg-id="Now Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0b53AgDyq9TRHmkF6t4YKFRXmCzlbRQvnOw&s" group-title="Ulusal",Now Tv
 http://116.202.238.88/FOXTV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Tv 8" tvg-id="Tv 8" tvg-logo="https://play-lh.googleusercontent.com/qW4mpsCJ25zf4AaFQK3Gxe_W6Tq_T1WnUjEe9-lncUpdyBQvSnhG3irN1l8GkUy7URM" group-title="Ulusal",Tv 8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7gh1m93ubvgf&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
@@ -22,7 +22,7 @@ https://tinyurl.com/582km64c
 #EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRT HABER" tvg-logo="https://yt3.googleusercontent.com/X-b7tJvjfBMDHCAafwyNV89qJ_FlzlXChymSisVsncnPpgOLLHknR6n1wtm8huk0SJz3KhNRTQ=s900-c-k-c0x00ffffff-no-rj" group-title="Haber",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="A Haber" tvg-id="A Haber" tvg-logo="https://yt3.googleusercontent.com/3a7gv0YZ9X6kWk_kfffCq3Gdws5g54JntzV1fSHQomWFDb-1mUuJTiCTX4HxUG9SMjqYyBN4guE=s900-c-k-c0x00ffffff-no-rj" group-title="Haber",A Haber
-https://tinyurl.com/2hxm62tc
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8?st=K7x9yLoOkHSE9KDtkpolcw&e=1753872765
 #EXTINF:-1 tvg-name="Ekol Tv" tvg-id="Ekol Tv" tvg-logo="https://play-lh.googleusercontent.com/NcMpZLeMJzAQboY5GKm17MLkFqtthxweBH8RUeMP7GHKfqnMuxtvorh_xOAmLsCpGQ" group-title="Haber",Ekol Tv
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 #EXTINF:-1 tvg-name="Haber Global" tvg-id="Haber Global" tvg-logo="https://yt3.googleusercontent.com/jSWgyqCsy8hQ9sIgccNhbUht_koPL8VYqZkirL7GLrj8QwOYBhkIkVEjq9OTEAM3mOlSIymwZw=s900-c-k-c0x00ffffff-no-rj" group-title="Haber",Haber Global
