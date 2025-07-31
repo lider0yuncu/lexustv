@@ -3,7 +3,7 @@
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/atv-tr.png" group-title="Ulusal",ATV
 http://176.65.146.123:6001/play/a01t/index.m3u8
-#EXTINF:-1 tvg-name="Kanal D" tvg-id="Kanal D" tvg-logo="https://images.seeklogo.com/logo-png/7/2/kanal-d-logo-png_seeklogo-77087.png" group-title="Ulusal",Kanal D
+#EXTINF:-1 tvg-name="Kanal D" tvg-id="Kanal D" tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/589f2f95ae78491af0a061df.jpg" group-title="Ulusal",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-name="Star Tv" tvg-id="Star Tv" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/star-tv-tr.png" group-title="Ulusal",Star Tv
 http://gails.me:80/afrim.shefii/spXkFYJPJA1eXEbmwP5KDMbwp19qWRSdh/111268
